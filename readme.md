@@ -27,10 +27,10 @@ Tester différents prix/pourcentage en modifiant X et Y
 - taper la commande docker run -it tp-docker python src/main.py X Y
 
 #### Exemple :
-- docker run -it tp-docker python scr/main.py 100 20
-- docker run -it tp-docker python scr/main.py 100 -10
-- docker run -it tp-docker python scr/main.py 'abc' 10
-- docker run -it tp-docker python scr/main.py 100 130
+- docker run -it tp-docker python src/main.py 100 20
+- docker run -it tp-docker python src/main.py 100 -10
+- docker run -it tp-docker python src/main.py 'abc' 10
+- docker run -it tp-docker python src/main.py 100 130
 
 ## How to test
 ### Dans le terminal
