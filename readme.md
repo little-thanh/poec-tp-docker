@@ -24,7 +24,7 @@ Créer un docker build :
 - taper la commande : docker build -t tp-docker . (ne pas oublier le point à la fin)
 
 Tester différents prix/pourcentage en modifiant X et Y
-- taper la commande docker run -it tp-docker python scr/main.py X Y
+- taper la commande docker run -it tp-docker python src/main.py X Y
 
 #### Exemple :
 - docker run -it tp-docker python scr/main.py 100 20
